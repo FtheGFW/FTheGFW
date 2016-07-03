@@ -1,6 +1,4 @@
-# 我的Android开发备忘录
-
-### 1. RelativeLayout#onMeasure
+# 调用RelativeLayout.measure()导致的NPE
 
 在开发app的时候，有的时候会需要手动测量一个视图的大小，代码一般长这样 ↓↓↓ 
 
